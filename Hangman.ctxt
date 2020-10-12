@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hangman
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=word\ guest
+comment2.target=boolean\ turn(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ rules()
+comment4.params=
+comment4.target=int\ list1()
+comment5.params=category
+comment5.target=java.lang.String\ chooseWord(int)
+numComments=6
